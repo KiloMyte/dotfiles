@@ -14,3 +14,4 @@ Collection of dotfiles for configurations of tools and environments I use.
 - [x] [Mpd](https://github.com/MusicPlayerDaemon/MPD) - Music player daemon
 - [x] [Mpv](https://github.com/mpv-player/mpv) - Commandline video player
 - [x] [Ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Ncurses-based client for mpd
+- [x] [Newsboat](https://github.com/newsboat/newsboat) - Commandline RSS/Atom feed reader
