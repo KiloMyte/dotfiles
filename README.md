@@ -11,3 +11,4 @@ Collection of dotfiles for configurations of tools and environments I use.
 - [x] [Hyprland](https://github.com/hyprwm/Hyprland) - Dynamic tiling wayland compositor
 - [x] [Imv](https://sr.ht/~exec64/imv) - Commandline image viewer
 - [x] [Lf](https://github.com/gokcehan/lf) - Terminal file manager
+- [x] [Mpd](https://github.com/MusicPlayerDaemon/MPD) - Music player daemon
