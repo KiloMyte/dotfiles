@@ -11,8 +11,10 @@ Collection of dotfiles for configurations of tools and environments I use.
 - [x] [Hyprland](https://github.com/hyprwm/Hyprland) - Dynamic tiling wayland compositor
 - [x] [Imv](https://sr.ht/~exec64/imv) - Commandline image viewer
 - [x] [Lf](https://github.com/gokcehan/lf) - Terminal file manager
+- [x] [Mksh](https://github.com/MirBSD/mksh) - Shell command interpreter
 - [x] [Mpd](https://github.com/MusicPlayerDaemon/MPD) - Music player daemon
 - [x] [Mpv](https://github.com/mpv-player/mpv) - Commandline video player
 - [x] [Ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Ncurses-based client for mpd
 - [x] [Newsboat](https://github.com/newsboat/newsboat) - Commandline RSS/Atom feed reader
 - [x] [Neovim](https://github.com/neovim/neovim) - Hyperextensible Vim-based text editor
+- [x] [Zsh](https://sourceforge.net/p/zsh/code/ci/master/tree) - Shell command interpreter
