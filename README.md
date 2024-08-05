@@ -17,4 +17,5 @@ Collection of dotfiles for configurations of tools and environments I use.
 - [x] [Ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Ncurses-based client for mpd
 - [x] [Newsboat](https://github.com/newsboat/newsboat) - Commandline RSS/Atom feed reader
 - [x] [Neovim](https://github.com/neovim/neovim) - Hyperextensible Vim-based text editor
+- [x] [Swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 - [x] [Zsh](https://sourceforge.net/p/zsh/code/ci/master/tree) - Shell command interpreter
