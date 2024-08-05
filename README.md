@@ -13,3 +13,4 @@ Collection of dotfiles for configurations of tools and environments I use.
 - [x] [Lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [x] [Mpd](https://github.com/MusicPlayerDaemon/MPD) - Music player daemon
 - [x] [Mpv](https://github.com/mpv-player/mpv) - Commandline video player
+- [x] [Ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Ncurses-based client for mpd
