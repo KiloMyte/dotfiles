@@ -19,4 +19,5 @@ Collection of dotfiles for configurations of tools and environments I use.
 - [x] [Neovim](https://github.com/neovim/neovim) - Hyperextensible Vim-based text editor
 - [x] [Swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 - [x] [Tmux](https://github.com/tmux/tmux) - Terminal multiplexer
+- [x] [Tofi](https://github.com/philj56/tofi) - Dynamic menu for Wayland
 - [x] [Zsh](https://sourceforge.net/p/zsh/code/ci/master/tree) - Shell command interpreter
