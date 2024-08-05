@@ -20,6 +20,8 @@ Collection of dotfiles for configurations of tools and environments I use.
 - [x] [Swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 - [x] [Tmux](https://github.com/tmux/tmux) - Terminal multiplexer
 - [x] [Tofi](https://github.com/philj56/tofi) - Dynamic menu for Wayland
+- [x] [Transmission](https://github.com/transmission/transmission) - BitTorrent client
+- [x] [Tremc](https://github.com/tremc/tremc) - Curses interface for Transmission
 - [x] [VSCodium](https://github.com/VSCodium/vscodium) - VS Code without MS branding/licensing/telemetry
 - [x] [Waybar](https://github.com/Alexays/Waybar) - Status bar for Wayland
 - [x] [Zathura](https://github.com/pwmt/zathura) - Document viewer
