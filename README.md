@@ -20,5 +20,6 @@ Collection of dotfiles for configurations of tools and environments I use.
 - [x] [Swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 - [x] [Tmux](https://github.com/tmux/tmux) - Terminal multiplexer
 - [x] [Tofi](https://github.com/philj56/tofi) - Dynamic menu for Wayland
+- [x] [Waybar](https://github.com/Alexays/Waybar) - Status bar for Wayland
 - [x] [Zathura](https://github.com/pwmt/zathura) - Document viewer
 - [x] [Zsh](https://sourceforge.net/p/zsh/code/ci/master/tree) - Shell command interpreter
