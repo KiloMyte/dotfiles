@@ -10,3 +10,4 @@ Collection of dotfiles for configurations of tools and environments I use.
 - [x] [Git](https://github.com/git/git) - Version control system
 - [x] [Hyprland](https://github.com/hyprwm/Hyprland) - Dynamic tiling wayland compositor
 - [x] [Imv](https://sr.ht/~exec64/imv) - Commandline image viewer
+- [x] [Lf](https://github.com/gokcehan/lf) - Terminal file manager
