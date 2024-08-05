@@ -15,3 +15,4 @@ Collection of dotfiles for configurations of tools and environments I use.
 - [x] [Mpv](https://github.com/mpv-player/mpv) - Commandline video player
 - [x] [Ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Ncurses-based client for mpd
 - [x] [Newsboat](https://github.com/newsboat/newsboat) - Commandline RSS/Atom feed reader
+- [x] [Neovim](https://github.com/neovim/neovim) - Hyperextensible Vim-based text editor
